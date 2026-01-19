@@ -36,7 +36,7 @@ Log in to osTicket's dashboard and navigate to the 'Tickets' tab. Here you will 
 <img width="872" height="539" alt="image" src="https://github.com/user-attachments/assets/d5e088e2-d41a-4a70-8885-e75bee5b444b" />
 </p>
 <p>
-From here, we can inspect the ticket further to gain more information as to what may be causing the issue. Check to see if the end user posted some more information under the ticket thread. If you only have limited information that was provided, the best way to proceed would be to contact the end user who submitted the ticket so that we may clarify more information and to better understand the criticality of the ticket. This will help establish a proper service level agreement on this ticket.
+From here, we can inspect the ticket further to gain more information as to what may be causing the issue. Check to see if the end user posted some more information under the ticket thread. If you only have limited information that was provided, the best way to proceed would be to contact the end user who submitted the ticket so that you may clarify more information to better understand the criticality of the ticket. This will help establish a proper service level agreement on this ticket.
 </p>
 <br />
 
